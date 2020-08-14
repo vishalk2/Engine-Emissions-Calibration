@@ -1,4 +1,4 @@
-# Engine-Emissions-Calibration-HC-gas-estimation
+# Engine-Emissions-Calibrations
 Estimating the Torque output and the emission percentages of 'CO', 'HC' & 'NOx' emission constituents by varying Throttle along side the given Engine RPM range.
 
 ***Analysis yet to be done.***
