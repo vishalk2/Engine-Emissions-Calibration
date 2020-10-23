@@ -1,9 +1,9 @@
 # Engine-Emissions-Calibration
-1.Estimated the Torque output and the emission percentages of 'CO', 'HC' & 'NOx' emission constituents by varying Throttle along side the given Engine RPM range.
+1.Estimated the Torque output and the emission percentages of 'CO', 'HC' & 'NOx' emission constituents by varying Throttle along side the given Engine RPM range (Bench Marking).
 
-2.Estimated the "Maximum Torques(and corresponding NOx emission %)" and "Minimum NOx emission %(and corresponding Torques)".
+2.Estimated the "Maximum Torques(and corresponding NOx emission %)" and "Minimum NOx emission %(and corresponding Torques)" Calibration.
 
-***Analysis yet to be done.***
+3. Collaborated with other Interns in drafting out a final outline of "Engine emission consituents' percentages VS Torque Outputs" keeping in mind the Emission Norms.
 
 This repo consists of -
   1. Estimated Data in an Excel Sheet.
