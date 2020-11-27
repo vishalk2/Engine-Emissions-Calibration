@@ -6,12 +6,14 @@
 3. Collaborated with other Interns in drafting out a final outline of "Engine emission consituents' percentages VS Torque Outputs" keeping in mind the Emission Norms.
 
 This repo consists of -
-  1. Estimated Data in an Excel Sheet.
-  2. Editable Air-Fuel Ratio (AFR) csv file.
-  3. Default Spark advance (table) csv file.
-  4. Project Report
+  1. Emissions 01 & 02 pdfs (Introductory)
+  2. Estimated Data in an Excel Sheet.
+  3. Editable Air-Fuel Ratio (AFR) csv file.
+  4. Default Spark advance (table) csv file.
+  5. Project Report
 
-Below is a sample image of the Reyn-ICE Virtual Engine Test Cell.
+
+Below is a sample image of the Reyn-ICE Virtual Engine Test Cell:
 
 ![Reyn-ICE](https://user-images.githubusercontent.com/68963724/90239308-e9cead80-de44-11ea-9564-4e8c34d11eb9.png)
 
