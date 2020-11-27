@@ -20,7 +20,8 @@ Below is a sample image of the Reyn-ICE Virtual Engine Test Cell:
 ![ICE](https://user-images.githubusercontent.com/68963724/90239390-0ff44d80-de45-11ea-85a4-00f96887c81e.png)
 
 
-Below are some sample graphs obtained as a part of estimatng the emissions:
+
+Below are some sample graphs obtained as a part of estimation of the emissions @ ReynLab:
 
 ![AFR-14.7](https://user-images.githubusercontent.com/68963724/100433379-ff4ca800-30c0-11eb-87a7-273fbacbcd7d.png)
 
