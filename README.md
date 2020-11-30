@@ -3,7 +3,7 @@
 
 2.Estimated the "Maximum Torques(and corresponding NOx emission %)" and "Minimum NOx emission %(and corresponding Torques)" (Calibration).
 
-3. Collaborated with other Interns in drafting out a final outline of "Engine emission consituents' percentages VS Torque Outputs" keeping in mind the latest Emission Norms.
+3.Collaborated with other Interns in drafting out a final outline of "Engine emission consituents' percentages VS Torque Outputs" keeping in mind the latest Emission Norms.
   
 (BS-VI Emission Norms" https://www.acko.com/auto/difference-between-bsiv-bsvi-engine-bs4-bs6-performance/)
 
